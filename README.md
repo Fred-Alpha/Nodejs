@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FredRepository
-=======
 # 通过Nodejs--express框架搭建WEB服务器
 	1.使用Nodejs前端分离控制；
 	2.通过Nodejs做路由跳转，包含view路由控制、数据请求。
