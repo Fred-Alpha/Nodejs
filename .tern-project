@@ -1,0 +1,25 @@
+{
+  "ecmaVersion": 5,
+  "plugins": {
+    "outline": {
+      
+    },
+    "guess-types": {
+      
+    },
+    "node": {
+      
+    },
+    "angular": {
+      
+    },
+    "node-express": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "ecma6",
+    "browser"
+  ]
+}
